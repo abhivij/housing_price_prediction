@@ -1,2 +1,2 @@
-# housing_price_prediction
+# Housing Price Prediction Kaggle Competition
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
