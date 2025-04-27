@@ -23,7 +23,7 @@ The notebooks provided here can be directly accessed and run from :
 
 -------------------------------------------------------------------------------------------------------
 
-Best public score : 0.11756 
+**Best public score : 0.11756 **
 - obtained using a voting ensemble of 3 optimized pipelines, each based on XGBoost, LightGBM and CatBoost regressors.
 
 
