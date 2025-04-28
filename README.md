@@ -1,10 +1,10 @@
-# Housing Price Prediction 
+# 🏠 Housing Price Prediction 
 
-**Task** : Predict sales price for each house based on 79 explanatory variables describing different aspects of homes in Ames, Iowa.
+**📝 Task** : Predict sales price for each house based on 79 explanatory variables describing different aspects of homes in Ames, Iowa.
 
-**Evaluation metric** : Root-mean square error(RMSE) between logarithm of predicted value and logarithm of observed sales price
+**📏 Evaluation metric** : Root-mean square error(RMSE) between logarithm of predicted value and logarithm of observed sales price
 
-Please refer to https://www.kaggle.com/c/house-prices-advanced-regression-techniques for more details
+ℹ️ Please refer to https://www.kaggle.com/c/house-prices-advanced-regression-techniques for more details
 
 -------------------------------------------------------------------------------------------------------
 
