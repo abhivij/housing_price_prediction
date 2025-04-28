@@ -8,7 +8,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-📈 **Best Public Score: 0.11756**
+📈 **Best Public Score (RMSE on log prices) : 0.11756**
 - Achieved using a voting ensemble combining **XGBoost**, **LightGBM**, and **CatBoost** regression pipelines.
 - Tuned hyperparameters for each individual model pipeline using **Optuna**.
 - The public score was computed on the test set without access to ground-truth sales prices.
