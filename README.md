@@ -8,6 +8,14 @@ Please refer to https://www.kaggle.com/c/house-prices-advanced-regression-techni
 
 -------------------------------------------------------------------------------------------------------
 
+📈 **Best Public Score: 0.11756**
+- Achieved using a voting ensemble combining **XGBoost**, **LightGBM**, and **CatBoost** regression pipelines.
+- Tuned hyperparameters for each individual model pipeline using **Optuna**.
+- The public score was computed on the test set without access to ground-truth sales prices.
+- ⚠️Note: Several top submissions in the competition used an external dataset that closely matched the test set, leading to near-perfect RMSE scores (~0.00044).
+
+  -------------------------------------------------------------------------------------------------------
+
 **Main contents**
 - [Getting started notebook](https://github.com/abhivij/housing_price_prediction/blob/main/housing-price-prediction.ipynb)
 - [Exploratory notebook to create a high-scoring notebook](https://github.com/abhivij/housing_price_prediction/blob/main/housing-price-prediction-part-2-exploratory.ipynb)
@@ -21,12 +29,7 @@ The notebooks provided here can be directly accessed and run from :
 - [Kaggle - Exploratory notebook](https://www.kaggle.com/code/abhivij/housing-price-prediction-part-2-exploratory)
 - [Kaggle - High-scoring notebook](https://www.kaggle.com/code/abhivij/housing-price-prediction-part-2)
 
--------------------------------------------------------------------------------------------------------
 
-📈 **Best Public Score: 0.11756**
-- Achieved using a voting ensemble combining **XGBoost**, **LightGBM**, and **CatBoost** regression pipelines.
-- Tuned hyperparameters for each individual model pipeline using **Optuna**.
-- The public score was computed on the test set without access to ground-truth sales prices.
-- ⚠️Note: Several top submissions in the competition used an external dataset that closely matched the test set, leading to near-perfect RMSE scores (~0.00044).
+
 
 
