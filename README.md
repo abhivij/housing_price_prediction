@@ -1,4 +1,4 @@
-# 🏠 Housing Price Prediction 
+# 🏠 House Sales Price Prediction
 
 **📝 Task** : Predict house sales price based on 79 explanatory variables describing different aspects of houses in Ames, Iowa.
 
